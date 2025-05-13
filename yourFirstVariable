@@ -11,3 +11,8 @@ echo "sum is $sum"
 
 // Using variable to provide default value if variables value is not given 
 echo "Value: ${my_val:-default_val}"
+
+//Using variable as string
+echo”${MY_SHELL}ing”
+
+
