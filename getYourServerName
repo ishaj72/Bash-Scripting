@@ -1,0 +1,3 @@
+#!/bin/bash
+SERVER_NAME =$(hostname)
+echo "you are running on server $SERVER_NAME"
