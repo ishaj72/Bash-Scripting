@@ -8,3 +8,6 @@ a = 2
 b = 3
 sum = $ ((a+b))
 echo "sum is $sum"
+
+// Using variable to provide default value if variables value is not given 
+echo "Value: ${my_val:-default_val}"
